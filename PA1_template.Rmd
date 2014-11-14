@@ -1,10 +1,5 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
-    
----
+#Reproducible Research: Peer Assessment 1
+
 Created by Hua Xiao on November 14, 2014
 
 Make code visible
